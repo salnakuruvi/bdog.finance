@@ -1,5 +1,5 @@
 # bdog.finance
 Hi Team,
-Subdomain Takeover vulnerability 
+Domain Takeover vulnerability 
 
 Please contact salnakuruvi@gmail.com 
