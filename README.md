@@ -1,5 +1,6 @@
-# bdog.finance
+# product.datto.com
 Hi Team,
-Domain Takeover vulnerability 
+Subdomain Takeover by
+Ashish Murugan S
 
-Please contact salnakuruvi@gmail.com 
+  A vulnerability has been discovered on this website. An email has been sent to the  datto.com Responsible/Vulnerability Disclosure team ( disclosures@datto.com ) to inform them of this issue.
